@@ -17,8 +17,7 @@ Laboratory Management: Track and manage laboratory tests, sample collection, and
 Reporting and Analytics: Dashboard for generating and analyzing key performance indicators.
 Mobile Responsiveness: Responsive design for optimal use on various devices.
 Usage
-Clone the repository: git clone https://github.com/yourusername/hospital-management-template.git
-Customize the template according to the specific requirements of Hole Hospital.
+Canva Link: https://www.canva.com/design/DAF3q3u2t2k/0KS8o3je805u2cXulqo8YQ/edit
 Integrate with backend systems and databases as needed.
 Test the template thoroughly to ensure seamless functionality.
 Deploy the web template to a suitable hosting environment.
